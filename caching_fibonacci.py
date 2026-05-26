@@ -21,5 +21,5 @@ def caching_fibonacci():
 
 fib = caching_fibonacci()
 
-print(fib(10))  # 55
-print(fib(15))  # 610
+print(fib(10))
+print(fib(15))
